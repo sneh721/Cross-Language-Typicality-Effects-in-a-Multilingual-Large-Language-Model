@@ -1,0 +1,52 @@
+Exemplar,likert_average,rating_average,likert_rank,rating_rank
+asparagus,6.6,9.0,15,1
+aubergine,5.0,6.2,24,35
+avocado,3.0,4.0,47,44
+bean,5.0,6.7,25,30
+beef tomato,5.7,7.4,17,21
+beetroot,7.0,8.0,1,6
+broccoli,7.0,8.0,2,7
+brussels sprouts,4.6,8.0,38,8
+carrot,7.0,9.0,3,2
+cauliflower,7.0,8.0,4,9
+celeriac,4.2,7.0,39,22
+celery,5.6,6.8,18,27
+cherry tomato,3.1,4.0,46,45
+chicory,3.3,6.2,44,36
+chilli,5.0,6.9,26,25
+chilli pepper,5.0,6.2,27,37
+chinese cabbage,5.2,6.9,21,26
+cocktail tomato,4.2,5.3,40,41
+courgette,5.4,9.0,20,3
+cucumber,7.0,8.0,5,10
+fennel,3.8,6.0,42,38
+ginger,3.0,4.35,48,43
+green cabbage,7.0,0.0,6,49
+iceberg lettuce,5.1,7.6,22,20
+kidney bean,3.2,4.0,45,46
+kohlrabi,5.0,8.0,28,11
+lamb's lettuce,5.0,6.5,29,32
+leaf salad,7.0,8.0,7,12
+leek,5.0,8.0,30,13
+lettuce,7.0,7.85,8,18
+olive,2.9,4.0,50,47
+onion,7.0,0.0,9,50
+pea,6.7,8.0,14,14
+pepper,5.8,7.65,16,19
+potato,7.0,0.0,10,51
+pumpkin,5.0,7.0,31,23
+radish,5.1,7.0,23,24
+red cabbage,7.0,9.0,11,4
+rocket,5.0,6.5,32,33
+savoy cabbage,5.0,8.0,33,15
+shallot,5.6,8.0,19,16
+shoot,4.2,5.4,41,40
+sorrel,3.0,4.6,49,42
+spinach,7.0,8.0,12,17
+stalk celery,5.0,6.8,34,28
+sweet chestnut,2.4,3.0,51,48
+sweetcorn,5.0,6.7,35,31
+tomato,3.7,6.3,43,34
+vine tomato,5.0,6.8,36,29
+white cabbage,7.0,8.1,13,5
+white radish,4.8,5.5,37,39

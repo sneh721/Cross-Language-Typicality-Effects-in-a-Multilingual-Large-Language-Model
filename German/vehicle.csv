@@ -1,0 +1,45 @@
+Exemplar,likert_average,rating_average,likert_rank,rating_rank
+aeroplane,7.0,9.0,1,1
+airship,3.0,3.0,24,40
+bicycle  ,7.0,0.9,2,43
+boat,5.0,7.0,12,11
+bus,7.0,7.75,3,8
+cable car,3.0,7.0,25,12
+camper van,3.0,7.0,26,13
+canoe,3.0,5.4,27,21
+car,7.0,9.0,4,2
+carriage,3.0,4.15,28,28
+catamaran,3.0,5.4,29,22
+chairlift,3.0,3.6,30,39
+city train,5.9,9.0,9,3
+crane,3.0,3.8,31,36
+cutter,3.0,7.0,32,14
+ferry,5.0,7.0,13,15
+forklift truck,3.0,4.1,33,29
+gondola lift,3.0,4.37,34,27
+handcart,3.0,3.8,35,37
+helicopter,3.0,4.1,36,30
+kayak,3.0,5.05,37,24
+lorry,6.2,6.85,7,18
+moped,5.0,0.0,14,44
+motor coach,5.6,7.1,10,10
+motorboat,4.0,6.2,20,19
+motorcycle  ,5.1,7.0,11,16
+pedal boat,4.6,3.0,18,41
+raft,3.0,4.0,38,32
+rail trolley,3.0,4.0,39,33
+roller blade,3.0,4.1,40,31
+rowing boat,4.0,4.0,21,34
+sailing ship,4.8,3.0,17,42
+scooter,3.6,6.0,22,20
+ship,5.0,7.0,15,17
+skateboard,3.4,5.0,23,25
+sleigh,3.0,3.8,41,38
+submarine,3.0,4.0,42,35
+taxi,6.1,8.0,8,7
+tractor,5.0,7.4,16,9
+train,7.0,9.0,5,4
+tram,6.9,9.0,6,5
+tricycle,3.0,4.6,43,26
+underground railway,4.4,9.0,19,6
+yacht,3.0,5.3,44,23

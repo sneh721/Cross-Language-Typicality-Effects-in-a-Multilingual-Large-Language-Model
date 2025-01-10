@@ -1,0 +1,43 @@
+Exemplar,likert_average,rating_average,likert_rank,rating_rank
+apple,7.0,9.0,1,1
+apricot,5.1,7.0,14,16
+banana,7.0,9.0,2,2
+blackberry,5.0,7.0,17,17
+blood orange,4.8,6.0,26,29
+blueberry,5.4,6.4,13,26
+cherry,6.7,8.2,9,6
+clementine,5.0,7.9,18,13
+cranberry,3.0,3.0,30,40
+date,5.0,5.1,19,34
+elderberry,3.0,4.0,31,37
+fig,3.0,6.0,32,30
+gooseberry,3.8,4.0,29,38
+grape,7.0,8.3,3,5
+grapefruit,3.0,6.2,33,27
+honeydew melon,5.0,7.0,20,18
+lemon,6.9,8.0,6,8
+lime,4.8,6.2,27,28
+lychee,3.0,4.6,34,36
+mango,5.1,7.1,15,15
+melon,6.9,7.0,7,19
+mirabelle,3.0,7.0,35,20
+musk melon,4.8,8.0,28,9
+nectarine,5.0,6.8,21,25
+orange,7.0,8.8,4,4
+papaya,3.0,5.6,36,33
+passion fruit,3.0,6.0,37,31
+peach,6.3,8.0,11,10
+pear,6.0,8.0,12,11
+physalis,3.0,4.7,38,35
+pineapple,5.0,6.9,22,24
+plum,5.1,7.0,16,21
+pomegranate,3.0,6.0,39,32
+raspberry,5.0,7.15,23,14
+redcurrant,3.0,7.0,40,22
+rosehip,3.0,4.0,41,39
+sour cherry,5.0,7.0,24,23
+starfruit,3.0,3.0,42,41
+strawberry,6.8,9.0,8,3
+sweet cherry,6.6,8.2,10,7
+tangerine,5.0,8.0,25,12
+water melon,7.0,0.0,5,42

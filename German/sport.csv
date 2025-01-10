@@ -1,0 +1,97 @@
+Exemplar,likert_average,rating_average,likert_rank,rating_rank
+acrobatics,5.0,6.5,43,66
+aerobatics,5.3,6.0,32,79
+aerobics,5.2,7.0,35,25
+apparatus gymnastics,5.0,8.0,44,7
+athletics,7.0,8.0,1,8
+badminton,3.4,6.1,81,76
+ballet,4.6,6.8,77,60
+baseball,3.0,6.8,85,61
+basketball,7.0,9.0,2,2
+beach volleyball,5.0,7.0,45,26
+biathlon,6.4,8.0,17,9
+bicycle racing,7.0,8.0,3,10
+billiards,5.2,6.4,36,67
+bmx,4.0,7.0,79,27
+bobsleigh,2.9,6.2,95,73
+bowling,5.4,7.0,30,28
+bowls,3.0,5.6,86,85
+boxing,6.8,7.0,15,29
+break dancing,5.0,6.3,46,70
+canoeing,5.0,6.35,47,68
+catamaran sailing,3.0,4.1,87,94
+chess,6.4,8.0,18,11
+cliff diving,3.0,5.1,88,90
+climbing,6.2,7.1,22,23
+cricket,3.4,4.2700000000000005,82,93
+cross-country skiing,6.1,7.0,23,30
+cycling,7.0,9.0,4,3
+dancing,5.1,7.0,40,31
+darts,5.0,5.9,48,82
+decathlon,3.6,8.0,80,12
+discus throwing,7.0,6.0,5,80
+diving,6.4,7.0,19,32
+dragon boat racing,5.0,7.0,49,33
+fencing,4.8,5.1,76,91
+figure skating,5.4,7.0,31,34
+fishing,5.0,7.0,50,35
+floor exercises,5.1,6.6,41,64
+flying,3.0,4.92,89,92
+football,7.0,9.7,6,1
+frisbee,5.0,5.6,51,86
+gymnastics,6.0,7.0,25,36
+hammer throwing,5.2,6.25,37,72
+handball,5.0,7.0,52,37
+high diving,6.0,6.35,26,69
+high jump,5.8,7.0,28,38
+hockey,3.4,7.1,83,24
+horseback riding,5.8,8.0,29,13
+hurdling,5.0,8.4,53,6
+ice hockey,2.7,7.0,96,39
+ice skating,7.0,6.6,7,65
+javelin ,6.3,6.9,21,58
+jogging,7.0,8.0,8,14
+judo,5.0,7.0,54,40
+long jump,6.1,7.0,24,41
+marathon,7.0,9.0,9,4
+motorcycle racing,6.4,7.0,20,42
+mountain biking,7.0,7.0,10,43
+mountaineering,5.0,8.0,55,15
+nordic walking,5.0,7.0,56,44
+parachuting,5.0,7.0,57,45
+paragliding,5.0,6.0,58,81
+physical education,7.0,8.0,11,16
+platform diving,3.0,5.85,90,84
+pole vault,3.0,6.2,91,74
+rowing,5.0,7.0,59,46
+rugby,3.0,4.1,92,95
+sailing,5.0,8.0,60,17
+shooting,6.8,7.0,16,47
+shot put,5.0,7.2,61,22
+show jumping,5.2,7.0,38,48
+skating,5.3,7.0,33,49
+ski jumping,5.9,7.0,27,50
+ski slope,7.0,7.9,12,20
+snorkelling,5.0,6.1,62,77
+snowboarding,5.0,7.0,63,51
+speed skating,5.0,6.2,64,75
+squash,5.0,6.1,65,78
+standard dance,5.0,6.9,66,59
+street dance,5.0,6.7,67,63
+surfing,5.0,6.8,68,62
+swimming,7.0,8.6,13,5
+table football,5.0,7.0,69,52
+table tennis,5.0,6.95,70,57
+tai chi,5.0,5.6,71,87
+tap dance,4.2,5.4,78,88
+tennis,7.0,8.0,14,18
+tobogganing,5.1,7.0,42,53
+trapshooting,5.0,5.9,72,83
+triathlon,5.0,8.0,73,19
+volleyball,5.2,7.0,39,54
+water ballet,3.0,5.2,93,89
+water polo,3.4,4.0,84,96
+water ski,3.0,6.3,94,71
+weightlifting,5.3,7.5,34,21
+wrestling,5.0,7.0,74,55
+yoga,5.0,7.0,75,56
